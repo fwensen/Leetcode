@@ -1,6 +1,5 @@
-# [Leetcode](https://leetcode.com/)
-###IDE: Intellij Idea
-###Test: JUnit
+## [Leetcode](https://leetcode.com/)
+
 ---
 ##TAG: [Array](https://leetcode.com/tag/array/) 
 + 88.   [Merge Sorted Array](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MergeSortedArray.java)
@@ -14,7 +13,6 @@
 + 219.  [Contains Duplicate II](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/ContainsDuplicate2.java), And the Java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/TestContainsDuplicate2.java)
 + 217.  [Contains Duplicate](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/ContainsDuplicate.java), And the Java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/ContainDuplicateTest.java)
 + 153. [Find Minimum in Rotated Sorted Array](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/FindMinimuminRotatedSortedArray.java), And the Java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/FindMinimuminRotatedSortedArrayTest.java)
-+ 216. [Combination Sum III](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/CombinationSumIII.java), And the Java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/CombinationSumIIITest.java)
-
+* 216. [Combination Sum III](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/CombinationSumIII.java), And the Java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/CombinationSumIIITest.java)
 
 ---
