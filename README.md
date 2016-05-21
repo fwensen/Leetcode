@@ -8,9 +8,9 @@
 
 <tr><td>88. Merge Sorted Array</td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MergeSortedArray.java">Solution</a></td></tr>
 <tr><td>121. Best Time to Buy and Sell Stock</td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/BestTimeToSellStock.java">Solution</a></td></tr>
-<tr><td>66. Plus One</td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/PlusOne.java">Solution</a></tr>
-<tr><td>27. emove Element</td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RemoveElements.java">Solution</a></tr>
-<tr><td>189. Rotate Array</td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RotateArray.java">Solution</a></tr>
+<tr><td>66. Plus One</td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/PlusOne.java">Solution</a></td> </tr>
+<tr><td>27. emove Element</td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RemoveElements.java">Solution</a></td></tr>
+<tr><td>189. Rotate Array</td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RotateArray.java">Solution</a></td></tr>
 <tr><td>169. Majority Element></td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MajorityElement.java">Solution</a></td> <td><a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/TestMajorityElement.java">Test</a></td></tr>
 <tr><td>26. Remove Duplicates from Sorted Array></td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RemoveDuplicatesFromSortedArray.java">Solution</a></td><td><a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/TestRemoveDuplicatesFromSortedArray.java">Test</a></td></tr>
 <tr><td>283. Move Zeroes></td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MoveZeros.java"></a></td><td> <a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/TestMoveZeros.java">Test</a></td></tr>
