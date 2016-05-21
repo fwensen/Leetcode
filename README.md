@@ -2,10 +2,9 @@
 
 ---
 ##TAG: [Array](https://leetcode.com/tag/array/) 
-
-|| ID || solution || Test ||
-||--||--------||----||
-||23||hello||ddd||hahadfdfdddd||
+<table>
+<tbody>
+<tr><td><em>Problem ID</em></td><td><em>Solution</em></td><td><em>Test</em></td></tr>
 
 + 88.   [Merge Sorted Array](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MergeSortedArray.java)
 + 121.  [Best Time to Buy and Sell Stock](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/BestTimeToSellStock.java)
@@ -24,4 +23,8 @@
 + 64. [Minimum Path Sum](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MinimumPathSum.java), And the Java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/MinimumPathSumTest.java)
 + 75. [Sort Colors](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/SortColors.java), And the Java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/SortColorsTest.java) 
 + 48. [Rotate Image](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RotateImage.java), And the java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/RotateImageTest.java)
+
+
+</tbody>
+</table>
 ---
