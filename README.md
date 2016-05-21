@@ -18,5 +18,5 @@
 + 59. [Spiral Matrix II](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/SpiralMatrixII.java)
 + 64. [Minimum Path Sum](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MinimumPathSum.java), And the Java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/MinimumPathSumTest.java)
 + 75. [Sort Colors](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/SortColors.java), And the Java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/SortColorsTest.java)
-* 48. [Rotate Image](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RotateImage.java), And the java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/RotateImageTest.java)
++ 48. [Rotate Image](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RotateImage.java), And the java [Test](https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/RotateImageTest.java)
 ---
