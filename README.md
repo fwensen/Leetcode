@@ -3,9 +3,9 @@
 ---
 ##TAG: [Array](https://leetcode.com/tag/array/) 
 
-|ID|solution|Test|
-|--|--------|----|
-|23|hello|ddd|hahadfdfdddd|
+|| ID || solution || Test ||
+||--||--------||----||
+||23||hello||ddd||hahadfdfdddd||
 
 + 88.   [Merge Sorted Array](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MergeSortedArray.java)
 + 121.  [Best Time to Buy and Sell Stock](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/BestTimeToSellStock.java)
