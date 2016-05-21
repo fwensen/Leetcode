@@ -4,10 +4,10 @@
 ##TAG: [Array](https://leetcode.com/tag/array/) 
 <table>
 <tbody>
-<tr><td><em>Problem ID</em></td><td><em>Solution</em></td><td><em>Test</em></td></tr>
+<tr><td><em>Problem</em></td><td><em>Solution</em></td><td><em>Test</em></td></tr>
 
-+ 88.   [Merge Sorted Array](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MergeSortedArray.java)
-+ 121.  [Best Time to Buy and Sell Stock](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/BestTimeToSellStock.java)
+<tr><td>88. Merge Sorted Array</td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MergeSortedArray.java"></a></td></tr>
+<tr><td>121. Best Time to Buy and Sell Stock</td><td><a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/BestTimeToSellStock.java"></a></td></tr>
 + 66.   [Plus One](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/PlusOne.java)
 + 27.   [Remove Element](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RemoveElements.java)
 + 189.  [Rotate Array](https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/RotateArray.java)
