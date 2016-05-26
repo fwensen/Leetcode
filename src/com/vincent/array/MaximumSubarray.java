@@ -25,5 +25,5 @@ public int maxSubArray(int[] nums) {
 		if (tmp < 0) tmp = 0;
 	}
 	return max;
-    }
+   }
 }
