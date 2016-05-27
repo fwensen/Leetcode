@@ -60,7 +60,7 @@
 </tr>
 
 <tr>
-	<td>6. Majority Element></td>
+	<td>6. Majority Element</td>
 	<td>
 		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MajorityElement.java">Solution</a>
 	</td> 
@@ -190,7 +190,7 @@
 
 <tr> 
 	<td>
-		19.<a href="https://leetcode.com/problems/maximum-subarray/">Maximum Subarray</a> 
+		19. <a href="https://leetcode.com/problems/maximum-subarray/">Maximum Subarray</a> 
 	</td> 
 	<td>
 		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/MaximumSubarray.java">Solution</a>
