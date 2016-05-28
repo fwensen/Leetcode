@@ -22,7 +22,7 @@ package com.vincent.array;
 public class SearchA2DMatrix {
 	
 	/**
-	 * 总体思想是：对第一列进行一次二分查找，然后再对相应的两行进行二分查找
+	 * 总体思想是：对第一列进行一次二分查找，然后再对相应的行进行二分查找
 	 * @param matrix
 	 * @param target
 	 * @return
@@ -52,10 +52,9 @@ public class SearchA2DMatrix {
 		}
 		
 		/**
-		 * 针对只有一行或一列的情况，只有一行时，修正xi,xj
+		 * 针对只有一行或一列的情况，只有一行时，修正xi
 		 */
 		if (xi > m - 1) xi -= 1;
-		if (xj < 0) xj += 1;
 		/**
 		 * 对xi行进行二分查找
 		 */
@@ -70,22 +69,6 @@ public class SearchA2DMatrix {
 			}
 		}
 		
-		yi = 0;
-		yj = n - 1;
-		/**
-		 * 对xj列进行二分查找
-		 */
-		while (yi <= yj ) {
-			int mid = (yi + yj)/2;
-			//System.out.println("xj: " + xj);
-			if (matrix[xj][mid] < target) {
-				yi = mid + 1;
-			} else if (matrix[xj][mid] > target) {
-				yj = mid - 1;
-			} else {
-				return true;
-			}
-		}
 		/**
 		 * 没查找到时，返回false
 		 */
@@ -109,7 +92,7 @@ public class SearchA2DMatrix {
 		int [][] matrix3 = {
 				{1,3}
 		};
-		boolean ret = sm.searchMatrix(matrix3, 3);
+		boolean ret = sm.searchMatrix(matrix, 1);
 		System.out.println("found?: " + ret);
 	}
 	
