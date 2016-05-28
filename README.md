@@ -1,7 +1,7 @@
 ## [Leetcode](https://leetcode.com/)
 
 ---
-##TAG: [Array](https://leetcode.com/tag/array/) 
+##Tag: [Array](https://leetcode.com/tag/array/) 
 <table>
 <tbody>
 <tr>
@@ -224,6 +224,17 @@
 	</td>
 </tr>
 
+<tr> 
+	<td>
+		22. <a href="https://leetcode.com/problems/search-a-2d-matrix/">Search a 2D Matrix</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/SearchA2DMatrix.java">Solution</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/SearchA2DMatrixTest.java">Test</a>
+	</td>
+</tr>
 
 </tbody>
 </table>

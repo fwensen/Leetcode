@@ -50,7 +50,7 @@ public class SpiralMatrix {
 		int counter = 0;
 
 		/**
-		 * @param ix, iy: row
+		 * @param ix, iy
 		 * @param jx,jy
 		 */
 		int ix = 0, iy = m;
