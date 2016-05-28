@@ -37,7 +37,7 @@ public class SearchA2DMatrix {
 		int yi = 0, yj = n-1;
 		
 		/**
-		 * 对第一列进行二分查找，得到行范围xi和xj
+		 * 对第一列进行二分查找，得到行范围xi
 		 */
 		while (xi <= xj) {
 			
