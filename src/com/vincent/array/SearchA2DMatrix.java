@@ -75,6 +75,28 @@ public class SearchA2DMatrix {
 		return false;
     }
 	
+	/**
+	 * 在leetcode discuss上看到一个更简洁的解法
+	 * @param matrix
+	 * @param target
+	 * @return
+	 */
+	public boolean searchMatrix2(int[][] matrix, int target) {
+        int i = 0, j = matrix[0].length - 1;
+        while (i < matrix.length && j >= 0) {
+                if (matrix[i][j] == target) {
+                    return true;
+                } else if (matrix[i][j] > target) {
+                    j--;
+                } else {
+                    i++;
+                }
+            }
+
+        return false;
+   }
+	
+	
 	public static void main(String[] args) {
 		
 		SearchA2DMatrix sm = new SearchA2DMatrix();

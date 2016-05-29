@@ -236,6 +236,18 @@
 	</td>
 </tr>
 
+<tr> 
+	<td>
+		23. <a href="https://leetcode.com/problems/word-search/">Word Search</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/WordSearch.java">Solution</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/WordSearchTest.java">Test</a>
+	</td>
+</tr>
+
 </tbody>
 </table>
 ---
