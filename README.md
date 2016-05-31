@@ -248,6 +248,18 @@
 	</td>
 </tr>
 
+<tr> 
+	<td>
+		24. <a href="https://leetcode.com/problems/set-matrix-zeroes/">Set Matrix Zeroes</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/SetMatrixZeroes.java">Solution</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/SetMatrixZeroesTest.java">Test</a>
+	</td>
+</tr>
+
 </tbody>
 </table>
 ---
