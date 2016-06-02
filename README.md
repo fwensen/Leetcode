@@ -272,6 +272,18 @@
 	</td>
 </tr>
 
+<tr> 
+	<td>
+		26. <a href="https://leetcode.com/problems/find-peak-element/">Find Peak Element</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/FindPeakElement.java">Solution</a>
+	</td> 
+	<td>
+		<a href="">Test</a>
+	</td>
+</tr>
+
 </tbody>
 </table>
 ---
