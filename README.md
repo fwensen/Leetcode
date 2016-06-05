@@ -284,6 +284,18 @@
 	</td>
 </tr>
 
+<tr> 
+	<td>
+		27. <a href="https://leetcode.com/problems/4sum/">18. 4Sum</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/Sum4.java">Solution</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/Sum4Test.java">Test</a>
+	</td>
+</tr>
+
 </tbody>
 </table>
 ---
