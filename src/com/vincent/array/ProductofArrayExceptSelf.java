@@ -16,11 +16,12 @@ package com.vincent.array;
 public class ProductofArrayExceptSelf {
 
 	public int[] productExceptSelf(int[] nums) {
-       int len = nums.length;
-       int [] ret = new int[len];
-       int multi = nums[0], i;
-       for (i = 1; i < len; ret[i] = multi,  multi *= nums[i++]) ;
-       for (ret[0] = 1, i = len - 2, multi = nums[len-1]; i >= 0; ret[i] *= multi,  multi *= nums[i--]) ;
-       return ret;
+		
+		int len = nums.length;
+		int [] ret = new int[len];
+		int multi = nums[0], i;
+		for (i = 1; i < len; ret[i] = multi,  multi *= nums[i++]) ;
+		for (ret[0] = 1, i = len - 2, multi = nums[len-1]; i >= 0; ret[i] *= multi,  multi *= nums[i--]) ;
+		return ret;
 	}
 }

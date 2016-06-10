@@ -286,7 +286,7 @@
 
 <tr> 
 	<td>
-		27. <a href="https://leetcode.com/problems/4sum/">18. 4Sum</a>
+		27. <a href="https://leetcode.com/problems/4sum/">4Sum</a>
 	</td> 
 	<td>
 		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/Sum4.java">Solution</a>
@@ -298,7 +298,7 @@
 
 <tr> 
 	<td>
-		28. <a href="https://leetcode.com/problems/product-of-array-except-self/">238. Product of Array Except Self</a>
+		28. <a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a>
 	</td> 
 	<td>
 		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/ProductofArrayExceptSelf.java">Solution</a>
@@ -308,6 +308,18 @@
 	</td>
 </tr>
 
+
+<tr> 
+	<td>
+		29. <a href="https://leetcode.com/problems/search-insert-position/">Search Insert Position</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/SearchInsertPosition.java">Solution</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/SearchInsertPositionTest.java">Test</a>
+	</td>
+</tr>
 </tbody>
 </table>
 ---
