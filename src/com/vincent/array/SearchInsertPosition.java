@@ -66,15 +66,4 @@ public class SearchInsertPosition {
 		return binarySearch(nums, target);
     }
 	
-	public static void main(String[] args) {
-		
-		SearchInsertPosition sip = new SearchInsertPosition();
-		int [] nums1 = {1,2,3,4,6};
-		int [] nums2 = {1,2,3,4,6,7,8,9};
-		int [] nums3 = {1,2,3,4,6,7,8,9,10};
-		System.out.println("1 :" + sip.searchInsert(nums1, 5));
-		System.out.println("2 :" + sip.searchInsert(nums2, 5));
-		System.out.println("3 :" + sip.searchInsert(nums3, 5));
-	}
-	
 }

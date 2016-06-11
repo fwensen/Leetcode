@@ -320,6 +320,20 @@
 		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/SearchInsertPositionTest.java">Test</a>
 	</td>
 </tr>
+
+<tr> 
+	<td>
+		30. <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/SearchinRotatedSortedArray.java">Solution</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/SearchinRotatedSortedArrayTest.java">Test</a>
+	</td>
+</tr>
+
+
 </tbody>
 </table>
 ---
