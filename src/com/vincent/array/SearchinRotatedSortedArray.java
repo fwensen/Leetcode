@@ -48,4 +48,10 @@ public class SearchinRotatedSortedArray {
 		return binarySearch(nums, target);
     }
 	
+	public static void main(String[] args) {
+		SearchinRotatedSortedArray sr = new SearchinRotatedSortedArray();
+		int [] nums1 = {1,3,1,1,1};
+		System.out.println("ret: " + sr.search(nums1, 3));
+	}
+	
 }

@@ -333,6 +333,17 @@
 	</td>
 </tr>
 
+<tr> 
+	<td>
+		31. <a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">Search in Rotated Sorted Array II</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/array/SearchinRotatedSortedArrayII.java">Solution</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/array/SearchinRotatedSortedArrayIITest.java">Test</a>
+	</td>
+</tr>
 
 </tbody>
 </table>
