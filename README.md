@@ -345,6 +345,36 @@
 	</td>
 </tr>
 
+---
+##Tag: [DP](https://leetcode.com/tag/dynamic-programming/) 
+<table>
+<tbody>
+<tr>
+	<td>
+		<em><b>Problem</b></em>
+	</td>
+	<td>
+		<em><b>Solution</b></em>
+	</td>
+	<td>
+		<em><b>Test</b></em>
+	</td>
+</tr>
+
+
+
+<tr> 
+	<td>
+		1. <a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/dp/ClimbingStairs.java">Solution</a>
+	</td> 
+	<td>
+		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/dp/ClimbingStairsTest.java">Test</a>
+	</td>
+</tr>
+
 </tbody>
 </table>
 ---
