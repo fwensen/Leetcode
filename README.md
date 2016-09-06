@@ -373,7 +373,7 @@
 		<a href="https://github.com/fwensen/Leetcode/blob/master/src/com/vincent/dp/ClimbingStairs.java">Solution</a>
 	</td> 
 	<td>
-		<a href="https://github.com/fwensen/Leetcode/blob/master/test/com/vincent/dp/ClimbingStairsTest.java">Test</a>
+		<a href="https://github.com/fwensen/Leetcode/tree/master/test/com/vincent/dp/ClimbingStairesTest.java">Test</a>
 	</td>
 </tr>
 
