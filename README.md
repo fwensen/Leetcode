@@ -345,6 +345,8 @@
 	</td>
 </tr>
 
+</tbody>
+</table>
 ---
 ##Tag: [DP](https://leetcode.com/tag/dynamic-programming/) 
 <table>
